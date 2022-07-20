@@ -1,0 +1,148 @@
+#bienvenida {
+text-align: center;
+font-family: Helvetica;
+}
+
+h1 {
+color: #383a56;
+font-size: 55px;
+}
+
+#contrasenas {
+    display: none;
+}
+
+#btn1 {
+background-color: #8D99AE;
+border: none;
+color: #000000;
+padding: 8px 25px;
+font-size: 20px;
+font-family:Helvetica;
+border-radius: 30px;
+}
+
+#btn2{
+    box-sizing: border-box;
+       position: absolute;
+    background-color: #8D99AE;
+    border: none;
+    color: #000000;
+    padding: 8px 30px;
+    font-size: 20px;
+    font-family: Helvetica;
+    border-radius: 30px;
+    left: 675px;
+    top: 330px;
+}
+
+#btn3{
+    box-sizing: border-box;
+        position: absolute;
+        background-color: #8D99AE;
+        border: none;
+        color: #000000;
+        padding: 8px 15px;
+        font-size: 20px;
+        font-family: Helvetica;
+        border-radius: 30px;
+        left: 673px;
+        top: 400px;
+}
+
+h2{
+    font-family: Helvetica;
+    text-align: left;
+    color: #2B2D42;
+}
+
+#cifrado { 
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 424px;
+        height: 383px;
+        left: 203px;
+        top: 272px;
+        background: #CEBABA;
+        border: 1px solid #111112;
+}
+
+#descifrado{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 424px;
+        height: 250px;
+        left: 878px;
+        top: 272px;
+        background: #CEBABA;
+        border: 1px solid #0D0C0C;
+}
+
+#desfase{
+width: 60px;
+height: 30px;
+background: #CEBABA;
+    border: 1px #000000;
+}
+
+
+label{
+    position: absolute;
+        width: 414px;
+        height: 84px;
+        left: 888px;
+        top: 165px;
+}
+
+#cuadrado{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1530px;
+        height: 107px;
+        left: 0px;
+        top: 638px;
+        background: #0B0A0A;
+        border: 1px solid #000000;
+}
+
+#cuadrado2{
+    box-sizing: border-box;
+
+        position: absolute;
+        width: 1530px;
+        height: 107px;
+        left: 0px;
+        top: 638px;
+        background: #0B0A0A;
+        border: 1px solid #000000;
+}
+
+#etiqueta, #etiqueta2{
+    font-size: 20px;
+    font-family: Helvetica;
+position: absolute;
+    width: 250px;
+    height: 33px;
+    left: 33px;
+    top: 680px;
+    color: #EF233C
+}
+
+p, p2{
+    font-size: 25px;
+    font-family: Helvetica;
+}
+
+#usuario{
+    width: 260px;
+    height: 35px;
+    text-align: center;
+    font-size: 15px;
+    color: #a19a9a;
+    background: #e3cccc;
+        border: none;
+}
+
