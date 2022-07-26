@@ -1,12 +1,11 @@
-
 #bienvenida {
-text-align: center;
-font-family: Helvetica;
+    text-align: center;
+    font-family: Helvetica;
 }
 
 h1 {
-color: #383a56;
-font-size: 55px;
+    color: #383a56;
+    font-size: 55px;
 }
 
 #contrasenas {
@@ -14,18 +13,18 @@ font-size: 55px;
 }
 
 #btn1 {
-background-color: #8D99AE;
-border: none;
-color: #000000;
-padding: 8px 25px;
-font-size: 20px;
-font-family:Helvetica;
-border-radius: 30px;
+    background-color: #8D99AE;
+    border: none;
+    color: #000000;
+    padding: 8px 25px;
+    font-size: 20px;
+    font-family: Helvetica;
+    border-radius: 30px;
 }
 
-#btn2{
+#btn2 {
     box-sizing: border-box;
-       position: absolute;
+    position: absolute;
     background-color: #8D99AE;
     border: none;
     color: #000000;
@@ -33,31 +32,31 @@ border-radius: 30px;
     font-size: 20px;
     font-family: Helvetica;
     border-radius: 30px;
-    left: 675px;
+    left: 750px;
     top: 330px;
 }
 
-#btn3{
+#btn3 {
     box-sizing: border-box;
-        position: absolute;
-        background-color: #8D99AE;
-        border: none;
-        color: #000000;
-        padding: 8px 15px;
-        font-size: 20px;
-        font-family: Helvetica;
-        border-radius: 30px;
-        left: 673px;
-        top: 400px;
+    position: absolute;
+    background-color: #8D99AE;
+    border: none;
+    color: #000000;
+    padding: 8px 15px;
+    font-size: 20px;
+    font-family: Helvetica;
+    border-radius: 30px;
+    left: 750px;
+    top: 400px;
 }
 
-h2{
+h2 {
     font-family: Helvetica;
     text-align: left;
     color: #2B2D42;
 }
 
-#cifrado { 
+#cifrado {
     border-radius: 30px;
     box-sizing: border-box;
     position: absolute;
@@ -66,67 +65,68 @@ h2{
     left: 300px;
     top: 280px;
     background: #CEBABA;
-    border: 1px solid  #0D0C0C;
+    border: 1px solid #0D0C0C;
 }
 
-#descifrado{
+#descifrado {
     border-radius: 30px;
     box-sizing: border-box;
-        position: absolute;
-        width: 424px;
-        height: 250px;
-        left: 878px;
-        top: 272px;
-        background: #CEBABA;
-        border: 1px solid #0D0C0C;
-}
-
-#desfase{
-text-align: center;
-border-radius: 30px;
-width: 60px;
-height: 30px;
-background: #CEBABA;
-border: 1px solid #0D0C0C;
-}
-
-
-label{
     position: absolute;
-        width: 414px;
-        height: 84px;
-        left: 888px;
-        top: 165px;
+    width: 424px;
+    height: 250px;
+    left: 878px;
+    top: 272px;
+    background: #CEBABA;
+    border: 1px solid #0D0C0C;
 }
 
-#cuadrado{
+#desfase {
+    text-align: center;
+    border-radius: 30px;
+    width: 60px;
+    height: 30px;
+    background: #CEBABA;
+    border: 1px solid #0D0C0C;
+}
+
+
+p3 {
+    position: absolute;
+    width: 414px;
+    height: 84px;
+    left: 888px;
+    top: 165px;
+}
+
+#cuadrado {
     box-sizing: border-box;
-    
-        position: absolute;
-        width: 1530px;
-        height: 107px;
-        left: 0px;
-        top: 638px;
-        background: #0B0A0A;
-        border: 1px solid #000000;
+
+    position: absolute;
+    width: 1530px;
+    height: 107px;
+    left: 0px;
+    top: 638px;
+    background: #0B0A0A;
+    border: 1px solid #000000;
 }
 
-#cuadrado2{
+#cuadrado2 {
     box-sizing: border-box;
 
-        position: absolute;
-        width: 1530px;
-        height: 107px;
-        left: 0px;
-        top: 638px;
-        background: #0B0A0A;
-        border: 1px solid #000000;
+    position: absolute;
+    width: 1530px;
+    height: 107px;
+    left: 0px;
+    top: 638px;
+    background: #0B0A0A;
+    border: 1px solid #000000;
 }
 
-#etiqueta, #etiqueta2{
+#etiqueta,
+#etiqueta2 {
     font-size: 20px;
     font-family: Helvetica;
-position: absolute;
+    position: absolute;
     width: 250px;
     height: 33px;
     left: 33px;
@@ -134,18 +134,18 @@ position: absolute;
     color: #EF233C
 }
 
-p, p2{
+p,
+p2 {
     font-size: 25px;
     font-family: Helvetica;
 }
 
-#usuario{
+#usuario {
     width: 260px;
     height: 35px;
     text-align: center;
     font-size: 15px;
     color: #a19a9a;
     background: #e3cccc;
-        border: none;
+    border: none;
 }
-
