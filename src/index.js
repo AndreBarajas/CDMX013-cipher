@@ -6,10 +6,6 @@ const botonIngresar = document.getElementById("btn1")
 const botonCifrado = document.getElementById("btn2")
 const botonDescifrado = document.getElementById("btn3")
 
-const parrafoCuatro = document.createElement("p"); //crear nodo
-const elementoPadre = document.getElementById("parrafoTres")//seleccionar elemento padre
-elementoPadre.appendChild(parrafoCuatro);//agregar nodos 
-
 botonIngresar.addEventListener("click", function () {
     const bienvenida = document.getElementById("bienvenida")
     const contrasenas = document.getElementById("contrasenas")

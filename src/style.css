@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color: #383a56;
+    color: #EF233C;
     font-size: 55px;
 }
 
@@ -53,7 +53,7 @@ h1 {
 h2 {
     font-family: Helvetica;
     text-align: left;
-    color: #2B2D42;
+    color: #EF233C;
 }
 
 #cifrado {
@@ -66,6 +66,7 @@ h2 {
     top: 280px;
     background: #CEBABA;
     border: 1px solid #0D0C0C;
+    font-size: 25px;
 }
 
 #descifrado {
@@ -78,6 +79,7 @@ h2 {
     top: 272px;
     background: #CEBABA;
     border: 1px solid #0D0C0C;
+    font-size: 25px ;
 }
 
 #desfase {
@@ -135,7 +137,7 @@ p3 {
 }
 
 p,
-p2 {
+p2, p3 {
     font-size: 25px;
     font-family: Helvetica;
 }
