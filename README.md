@@ -54,11 +54,12 @@ El proceso de diseño fue pensando para que el usuario no tuviera que navegar en
 
 Las partes y pasos que conforman la funcionalidad son las siguientes: 
 
--Paso 1: En ` Input desfase` el usuario ingresará un número para desfasar los carácteres a través de del codigo ASCII.  
--Paso 2: `Input mensaje a cifrar` es el recuadro situado a la izquierda de la página y en el ingresarás tus contraseñas a cifrar. 
--Paso 3: `Botón Cifrar` Una vez ingresada(s) la(s) contraseña(s) a cifrar se da click en esté botón y se cifrará(n)
--Paso 4: `Input mensaje descifrado` en este recuadro situado a la derecha de la página se mostrarán la(s) contraseña(s) cifrada(s) 
--Paso 5: Para regresar el mensaje a su estado orginal, volver a indicar el número de desfse, ingresar la contraseña cifrada en `Input mensaje a cifrar` y dar clcick en`Botón Descifrar`
+- Paso 1: En ` Input desfase` el usuario ingresará un número para desfasar los carácteres a través de del codigo ASCII.  
+- Paso 2: `Input mensaje a cifrar` es el recuadro situado a la izquierda de la página y en el ingresarás tus contraseñas a cifrar. 
+- Paso 3: `Botón Cifrar` Una vez ingresada(s) la(s) contraseña(s) a cifrar se da click en esté botón y se cifrará(n)
+- Paso 4: `Input mensaje descifrado` en este recuadro situado a la derecha de la página se mostrarán la(s) contraseña(s) cifrada(s) 
+- Paso 5: Para regresar el mensaje a su estado orginal, volver a indicar el número de desfse, ingresar la contraseña cifrada en `Input mensaje a cifrar` y dar clcick en`Botón Descifrar`
+
 
 ## 5. Usuarios
 
@@ -69,5 +70,4 @@ Este programa está dirigido a cualquier usuario que desee cifrar sus contraseñ
 - Andrea Barajas - Laboratorian MX013
 
 
-t
 
