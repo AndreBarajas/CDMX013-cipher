@@ -3,7 +3,4 @@
     "jest": true
   }
 
-  {
-    "parser": "babel-eslint"
-  }
 }
