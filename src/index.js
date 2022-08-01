@@ -23,8 +23,7 @@ botonCifrado.addEventListener("click", function () {
 });
 
 botonDescifrado.addEventListener("click", function() {
-    let offset2 = document.getElementById("desfase").value
-    let offset = offset2 * -1
+    let offset = document.getElementById("desfase").value
     let texto = document.getElementById("cifrado").value
 
     console.log("desfase", offset)
